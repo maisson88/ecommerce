@@ -37,7 +37,7 @@ const Navbar=()=>{
   
     </div>
   </div>
-  <div className="">
+  <div className="hidden sm:hidden md:hidden lg:block">
     <ul className= "sm-flex hidden d-flex gap-5 justify-content-center align-items-center py-2 group">
     
           <li className="hover:text-primary duration-200 cursor-pointer inline-block">
